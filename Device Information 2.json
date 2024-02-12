@@ -1,0 +1,292 @@
+{
+    "Device Info": [
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "0c35595f-ed87-4b90-bada-ed87bd668ce6",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "RA3eYfqAGdXkv2sZ44J1Uw==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "fGP0bMQMgek:APA91bFYoLfCMnO0ncq6YFczqnrzKuUY_uDkO6AKtNZKH5OiUpcQGEmnb9knxODjevmxrneN978Y-hR-Q3xRtYPXrumO17q2I8DnDZfbCgpg5lLhqHSsqL6TwYEE8RfPHDqa8S3meu0j",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1705225626774,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "0ed4ae35-6bf0-425f-bd78-6efea7ffc6c6",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "lO7hi2vU3lqrowGfbCZ98A==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "d6b5lbTjH7U:APA91bEx87GT0b-hkqXyN212-KAxVenmd-yt_mbW-v6XOOSKDpH4I81TaWGpQbxY6cDhL0kacxCk-VFW2CbJzO0b_YzS-eGhNUdPyl9VSmij3gqWsbihlpUs0cEqGOG9ogxQGKLvBzyM",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1704000438026,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "da77ea26-4447-4f24-9a5d-8e051571aef4",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "xnkf6Q2/G3ChawvlfTFBFg==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "d6b5lbTjH7U:APA91bEx87GT0b-hkqXyN212-KAxVenmd-yt_mbW-v6XOOSKDpH4I81TaWGpQbxY6cDhL0kacxCk-VFW2CbJzO0b_YzS-eGhNUdPyl9VSmij3gqWsbihlpUs0cEqGOG9ogxQGKLvBzyM",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1703897671458,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "5f1ad127-f15e-43f9-8989-a1212ab83bf4",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "zJ8dxntEHehqK1irFsPhsg==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "e54E6_of8sk:APA91bFZKrjjbGoZbP3qZJCFTjAQWYTONQQlUIq9cZpPeQGSSB383HkRDbDrtZNYaF3Har_Zr63AUUR0PTVE5trEvrzOS_3GHkrhsPx2XRhkxdxsR8_Cn5Jj64YyAisnXdlB3Pbi2GXT",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1705778649469,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "Chrome ANDROID-PHONE 121.0.6167.144 (6dbe469eca7decf98d44b91675fd0961453c0d21-refs/branch-heads/6167@{#1688}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "121.0.6167.144"},
+            "signin_scoped_device_id": "11482cec-5ace-4800-acab-11e932d82ca1",
+            "manufacturer": "TCL",
+            "cache_guid": "/XGlP+Yh/WcRzlcUsamlSg==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "cNdV0sq1uOk:APA91bGCeCgNIX20d_SVAFrLmvRYviL6LyRcKZcyr6i1jIJB-h2Ub2H7dTBthoWJtu6DntDw1SkENDYzjP9UgrRUXDMGMNRh3OJKt4WkVLbCqUSpcPZeSkJ3afNKibXSdx7eg-1DnoZg",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    45873,
+                                    63951,
+                                    31729,
+                                    306270,
+                                    330441,
+                                    774329,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    1034378,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1707510591775,
+            "model": "T609DL",
+            "client_name": "T609DL",
+            "chrome_version": "121.0.6167.144"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "87dd4d6e-fbc3-4779-8d98-ba460f52acbb",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "Xn9gxCRRR4Li8D6gY7GwIw==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "d6b5lbTjH7U:APA91bEx87GT0b-hkqXyN212-KAxVenmd-yt_mbW-v6XOOSKDpH4I81TaWGpQbxY6cDhL0kacxCk-VFW2CbJzO0b_YzS-eGhNUdPyl9VSmij3gqWsbihlpUs0cEqGOG9ogxQGKLvBzyM",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1703892807043,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "a1c266c6-e288-4906-90e8-217da52d3721",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "3nDUEYompgw/zehEdRflDg==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "f5aJ3rzP5us:APA91bE09BAOjF_p-lf6VvEK1yTRWLCMfZK85bEOM16s9XLmdNop9ehnEQDxIbcXJ3gZ7NylaNHr4ir-_yVISc6QGP90Zj-F4b7yhKq2ZFcxwvSyGkcUSWRUuPLCSbXGw5EXL4XmPzfi",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1704295710239,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "3eb4cb21-8041-40a8-9893-bd9d512e7ad9",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "tW0jsO9EJXD3NAFd3pZG+w==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "f5aJ3rzP5us:APA91bE09BAOjF_p-lf6VvEK1yTRWLCMfZK85bEOM16s9XLmdNop9ehnEQDxIbcXJ3gZ7NylaNHr4ir-_yVISc6QGP90Zj-F4b7yhKq2ZFcxwvSyGkcUSWRUuPLCSbXGw5EXL4XmPzfi",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1704552643792,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "Chrome IOS-PHONE 119.0.6045.169 (282ae04c0e5df01793a71640f8e6737f9cda8c64-refs/branch-heads/6045@{#1338}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "119.0.6045.169"},
+            "signin_scoped_device_id": "b0a16818-f552-4486-b420-9d936a44d21c",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "2X3fFZvccrX5oPgGZT4yyg==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": true},
+            "invalidation_fields": {
+                        "instance_id_token": "cYht7yLVpqQ:APA91bFz6ghyv6xLxmGA57UUS9Wd6JZqJxw4rvvojelUhgySYNM4SdopxrEpTJCk_IRzMfwYElhocsiI-clL58kNiE77v6RRTgHYx3T2q0QHAPJW8J08K6UbvC34bWK0vQ2OUnQs9X7j",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    186662,
+                                    601980,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1704942316033,
+            "model": "iPhone9,1",
+            "client_name": "iPhone9,1",
+            "chrome_version": "119.0.6045.169"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "845d989f-e3d4-4e93-b95d-d99278f873c6",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "n5Ij7s4hcSZbBCux/0+JGg==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "f5aJ3rzP5us:APA91bE09BAOjF_p-lf6VvEK1yTRWLCMfZK85bEOM16s9XLmdNop9ehnEQDxIbcXJ3gZ7NylaNHr4ir-_yVISc6QGP90Zj-F4b7yhKq2ZFcxwvSyGkcUSWRUuPLCSbXGw5EXL4XmPzfi",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1704333537945,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+},
+        {
+            "sync_user_agent": "iGSA IOS-PHONE 118.0.5993.96 (52d9436d82975ae366306dd2db526a81f1b2bdd4-refs/branch-heads/5993@{#1334}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "118.0.5993.96"},
+            "signin_scoped_device_id": "98e13807-e0b8-4d21-8f9d-19836d1a01b0",
+            "manufacturer": "Apple Inc.",
+            "cache_guid": "SdxnroLnEBGpoun+Xmfc+w==",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {"send_tab_to_self_receiving_enabled": false},
+            "invalidation_fields": {
+                        "instance_id_token": "f5aJ3rzP5us:APA91bE09BAOjF_p-lf6VvEK1yTRWLCMfZK85bEOM16s9XLmdNop9ehnEQDxIbcXJ3gZ7NylaNHr4ir-_yVISc6QGP90Zj-F4b7yhKq2ZFcxwvSyGkcUSWRUuPLCSbXGw5EXL4XmPzfi",
+                        "interested_data_type_ids": [
+                                    45873,
+                                    306270,
+                                    154522,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_IOS",
+            "last_updated_timestamp": 1704408211834,
+            "model": "iPhone13,2",
+            "client_name": "iPhone13,2",
+            "chrome_version": "118.0.5993.96"
+}
+    ]
+}

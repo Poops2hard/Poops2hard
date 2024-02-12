@@ -1,0 +1,33 @@
+{
+  "title": "IMG_1587.JPG",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1700343949",
+    "formatted": "Nov 18, 2023, 9:45:49 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1523746384",
+    "formatted": "Apr 14, 2018, 10:53:04 PM UTC"
+  },
+  "geoData": {
+    "latitude": 36.346888899999996,
+    "longitude": -92.56025,
+    "altitude": 132.86631016042782,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.346888899999996,
+    "longitude": -92.56025,
+    "altitude": 132.86631016042782,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN43h9vFNxU8P97SnH9Pks0-k_NgxDAstNqQigg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
